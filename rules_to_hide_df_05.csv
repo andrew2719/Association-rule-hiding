@@ -1,0 +1,6 @@
+,antecedents,consequents
+0,frozenset({'1358'}),frozenset({'1359'})
+1,frozenset({'1359'}),frozenset({'1358'})
+2,frozenset({'1939'}),frozenset({'1935'})
+3,frozenset({'724'}),frozenset({'1659'})
+4,frozenset({'1930'}),frozenset({'1935'})

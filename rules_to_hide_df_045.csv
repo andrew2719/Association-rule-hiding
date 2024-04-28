@@ -1,0 +1,13 @@
+,antecedents,consequents
+0,frozenset({'2867'}),frozenset({'2869'})
+1,frozenset({'1358'}),frozenset({'1359'})
+2,"frozenset({'1939', '1937'})",frozenset({'1935'})
+3,frozenset({'1359'}),frozenset({'1358'})
+4,frozenset({'1939'}),frozenset({'1935'})
+5,frozenset({'2869'}),frozenset({'2867'})
+6,frozenset({'2605'}),frozenset({'1532'})
+7,"frozenset({'1935', '1937'})",frozenset({'1939'})
+8,frozenset({'2690'}),frozenset({'3694'})
+9,frozenset({'3756'}),frozenset({'3760'})
+10,frozenset({'724'}),frozenset({'1659'})
+11,frozenset({'1930'}),frozenset({'1935'})
